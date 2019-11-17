@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/erikpiano.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/my_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +30,10 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
-      <workItem from="1574028641337" duration="469000" />
+      <workItem from="1574028641337" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574008866706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cleaned up index.html">
+      <created>1574029235630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574029235630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="centered text in footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="centered text in footer" />
+    <MESSAGE value="cleaned up index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up index.html" />
   </component>
 </project>
