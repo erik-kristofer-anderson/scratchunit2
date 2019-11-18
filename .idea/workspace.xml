@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="add hero to music page">
-      <change afterPath="$PROJECT_DIR$/files/HMFT_1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/HMFT_3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/erik-piano-large.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/erikpiano.jpg" afterDir="false" />
+    <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/old-stuff/art_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erik-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/erik-large.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erik-piano-large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/erik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/erik.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erikpiano.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/old-stuff/music_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_styles-renamed.css" beforeDir="false" afterPath="$PROJECT_DIR$/old-stuff/my_styles-renamed.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratchBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/old-stuff/scratchBootstrap.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
-      <workItem from="1574028641337" duration="8024000" />
+      <workItem from="1574028641337" duration="8200000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -135,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574041097370</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added heros here and there">
+      <created>1574041592673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574041592673</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +156,7 @@
     <MESSAGE value="added art page" />
     <MESSAGE value="fixed issue with upside down image" />
     <MESSAGE value="added hero" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hero" />
+    <MESSAGE value="added heros here and there" />
+    <option name="LAST_COMMIT_MESSAGE" value="added heros here and there" />
   </component>
 </project>
