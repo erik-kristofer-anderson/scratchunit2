@@ -1,17 +1,59 @@
-/* Error: Can't find stylesheet to import.
- *   ,
- * 9 | @use "_site_color_variables";
- *   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- *   '
- *   my_own_style.scss 9:1  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a   \2577 \a 9 \2502  @use \"_site_color_variables\";\a   \2502  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   my_own_style.scss 9:1  root stylesheet";
+.img-responsive {
+  display: inline;
+  max-width: 50%;
+  height: auto;
 }
+
+.img-responsive-col {
+  display: block;
+  max-width: 80%;
+  height: auto;
+}
+
+.site-footer {
+  background: #9AE2D7;
+  text-align: center;
+}
+
+.jumbotron-fluid {
+  background-color: #9AE2D7;
+}
+.jumbotron-fluid h1 {
+  color: #3F3E32;
+}
+.jumbotron-fluid h2 {
+  color: #3F3E32;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 800px) {
+  .container {
+    max-width: 800px;
+  }
+}
+.hero-text {
+  text-align: center;
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+/*@media (min-width: 768px) { ... }*/
+/*// Large devices (desktops, 992px and up)*/
+/*@media (min-width: 992px) { ... }*/
+/*// Extra large devices (large desktops, 1200px and up)*/
+/*@media (min-width: 1200px) { ... }*/
+
+/*# sourceMappingURL=my_own_style.css.map */

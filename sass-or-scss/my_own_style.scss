@@ -1,22 +1,36 @@
 
+$black-olive: #3F3E32;
+$nickel-color: #72705B;
+$pale-robin-egg-blue: #9AE2D7;
 
-
+$footer-background :$pale-robin-egg-blue;
+$hero-background :$pale-robin-egg-blue;
+$hero-text-color: $black-olive;
 
 
 
 
 @use "_image_styles.scss";
-@use "_site_color_variables";
+//@use "_site_color_variables";
 
 
 
 .site-footer {
-  background: lightblue;
+  background: $footer-background;
   text-align: center;
 }
 
+.jumbotron-fluid {
+  background-color: $hero-background;
+  h1 {
+    color:$hero-text-color;
+  }
+  h2 {
+    color:$hero-text-color;
+  }
 
 
+}
 
 .bd-placeholder-img {
   font-size: 1.125rem;
@@ -42,9 +56,7 @@
 
 }
 
-.jumbotron-fluid {
-  background-color:lightblue;
-}
+
 
 .hero-text {
   text-align: center;
