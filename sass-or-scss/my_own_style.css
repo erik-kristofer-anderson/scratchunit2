@@ -1,0 +1,53 @@
+.site-footer {
+  background: lightblue;
+  text-align: center;
+}
+
+.img-responsive {
+  display: inline;
+  max-width: 50%;
+  height: auto;
+}
+
+.img-responsive-col {
+  display: block;
+  max-width: 80%;
+  height: auto;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 800px) {
+  .container {
+    max-width: 800px;
+  }
+}
+.jumbotron-fluid {
+  background-color: lightblue;
+}
+
+.hero-text {
+  text-align: center;
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+/*@media (min-width: 768px) { ... }*/
+/*// Large devices (desktops, 992px and up)*/
+/*@media (min-width: 992px) { ... }*/
+/*// Extra large devices (large desktops, 1200px and up)*/
+/*@media (min-width: 1200px) { ... }*/
+
+/*# sourceMappingURL=my_own_style.css.map */

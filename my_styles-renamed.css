@@ -11,6 +11,14 @@
 }
 
 
+.img-responsive-col {
+    display: block;
+    max-width: 80%;
+    height: auto;
+}
+
+
+
  .bd-placeholder-img {
      font-size: 1.125rem;
      text-anchor: middle;
@@ -33,6 +41,14 @@
         max-width:800px;
     }
 
+}
+
+.jumbotron-fluid {
+    background-color:lightblue;
+}
+
+.hero-text {
+    text-align: center;
 }
 
 /*// Medium devices (tablets, 768px and up)*/

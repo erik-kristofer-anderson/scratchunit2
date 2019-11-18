@@ -2,7 +2,7 @@
 <!-- saved from url=(0060)https://getbootstrap.com/docs/4.3/examples/starter-template/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <link rel="stylesheet" href="my_styles.css">
+    <link rel="stylesheet" href="sass-or-scss/my_own_style.css">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -16,11 +16,27 @@
     <link href="./Starter Template · Bootstrap_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
 
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+
+        }
+    </style>
     <!-- Custom styles for this template -->
     <link href="./Starter Template · Bootstrap_files/starter-template.css" rel="stylesheet">
 </head>
-<body>`
+<body>
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
     <!--    <a class="navbar-brand" href="https://getbootstrap.com/docs/4.3/examples/starter-template/#">Navbar</a>-->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,13 +54,76 @@
                 <a class="nav-link" href="art.html">Art</a>
             </li>
         </ul>
+        <!--        <form class="form-inline my-2 my-lg-0">-->
+        <!--            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">-->
+        <!--            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>-->
+        <!--        </form>-->
     </div>
 </nav>
 
 <main role="main" class="container">
-    <p>This page is underconstruction, but you can see some of my art <a href="https://ekristoferanderson.wordpress.com/gallery/">here</a>.
+
+    <div class="starter-template">
+        <h1 >Erik's Art</h1>
+        <!--        <img src="erik.jpg" alt="photo of erik" width = "400">-->
+        <h2 class="lead">Here are some of My Musical endeavors</h2>
+    </div>
     <br>
-    Or you could go to the <a href="index.html">home page</a>.</p>
+    <div class="row">
+        <div class="col-sm">
+            <h3>Happy Morbid Fun Train</h3>
+            <p>
+                In high school, I got together with some friends and formed a metal band.
+                We played one show, recorded two songs, and called ourselves Happy Morbid Fun Train.
+                Here is one of those tracks, with the imaginative title HMFT 1.
+
+            </p>
+            <audio controls>
+                <source src="HMFT_1.mp3" type="audio/mpeg">
+                Alternate text: Your browser does not support the audio element.
+            </audio>
+
+            <p>And here is the other one, with the oddly numbered title HMFT 3.</p>
+            <audio controls>
+                <source src="HMFT_3.mp3" type="audio/mpeg">
+                Alternate text: Your browser does not support the audio element.
+            </audio>
+        </div>
+
+        <!--    <br>-->
+        <!--    <br>-->
+        <div class = "col-sm">
+            <h3> Jazz
+
+                <!--    <a href="art.html">Art</a>-->
+            </h3>
+
+
+            <p>
+                Later, I did a stint as a jazz pianist, playing at a
+                few open jams in the Chicago area.
+            </p>
+            <img src="erik-piano-large.JPG" alt="Erik playing piano" class = "img-responsive-col">
+        </div>
+        <!--    <br>-->
+    </div>
+
+    <!--        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>-->
+
+    <br>
+    <h3>Reasons I like music:</h3>
+    <ol>
+        <li>Sounds good</li>
+        <li>Feels good</li>
+        <li>The Red Hot Chili Peppers</li>
+    </ol>
+
+    <!--        <ol class="lead">-->
+    <!--            <li>Cats</li>-->
+    <!--        </ol>-->
+
+
+
 
 </main><!-- /.container -->
 
