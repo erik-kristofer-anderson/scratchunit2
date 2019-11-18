@@ -41,6 +41,10 @@
   color: #3F3E32;
 }
 
+.my-form-style {
+  border-style: solid;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -64,12 +68,5 @@
 .hero-text {
   text-align: center;
 }
-
-/*// Medium devices (tablets, 768px and up)*/
-/*@media (min-width: 768px) { ... }*/
-/*// Large devices (desktops, 992px and up)*/
-/*@media (min-width: 992px) { ... }*/
-/*// Extra large devices (large desktops, 1200px and up)*/
-/*@media (min-width: 1200px) { ... }*/
 
 /*# sourceMappingURL=my_own_style.css.map */

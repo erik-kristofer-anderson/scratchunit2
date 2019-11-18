@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +74,7 @@
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
       <workItem from="1574028641337" duration="13506000" />
+      <workItem from="1574092666607" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -162,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574048976562</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add form - basic html">
+      <created>1574092747661</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574092747661</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +209,7 @@
     <MESSAGE value="making progress with scss styling" />
     <MESSAGE value="more scss" />
     <MESSAGE value="more scss again" />
-    <option name="LAST_COMMIT_MESSAGE" value="more scss again" />
+    <MESSAGE value="add form - basic html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add form - basic html" />
   </component>
 </project>
