@@ -71,7 +71,7 @@
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
       <workItem from="1574028641337" duration="13506000" />
-      <workItem from="1574092666607" duration="1785000" />
+      <workItem from="1574092666607" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574093999180</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="worked on form some more">
+      <created>1574094536507</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574094536507</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +222,7 @@
     <MESSAGE value="more scss again" />
     <MESSAGE value="add form - basic html" />
     <MESSAGE value="added form" />
-    <option name="LAST_COMMIT_MESSAGE" value="added form" />
+    <MESSAGE value="worked on form some more" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on form some more" />
   </component>
 </project>
