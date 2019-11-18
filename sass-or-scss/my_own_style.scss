@@ -10,7 +10,7 @@ $languid-lavender: #D6D5E5;
 
 $footer-background :$pale-robin-egg-blue;
 $hero-background :$pale-robin-egg-blue;
-$hero-text-color: $ebony;
+$hero-text-color: $black-olive;
 $container-background-color: $languid-lavender;
 $row-text-color: $ebony;
 @use "_image_styles.scss";
@@ -24,8 +24,15 @@ $row-text-color: $ebony;
 }
 
 
-.my-index-class{
-  color: black;
+.row2 {
+  .col-sm{
+    color:black;
+  }
+}
+
+
+.i-like-music-class {
+  color: $row-text-color;
 }
 
 .container {

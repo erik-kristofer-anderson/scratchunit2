@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" afterDir="false" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
-      <workItem from="1574028641337" duration="12203000" />
+      <workItem from="1574028641337" duration="12936000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574044790013</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="more scss">
+      <created>1574045950440</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574045950440</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +180,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="centered text in footer" />
     <MESSAGE value="cleaned up index.html" />
     <MESSAGE value="added content to music.html" />
@@ -185,6 +193,7 @@
     <MESSAGE value="starting to work on art page" />
     <MESSAGE value="starting to play with scss" />
     <MESSAGE value="making progress with scss styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="making progress with scss styling" />
+    <MESSAGE value="more scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="more scss" />
   </component>
 </project>

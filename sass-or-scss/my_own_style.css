@@ -14,8 +14,12 @@
   color: #595950;
 }
 
-.my-index-class {
+.row2 .col-sm {
   color: black;
+}
+
+.i-like-music-class {
+  color: #595950;
 }
 
 .container {
@@ -31,10 +35,10 @@
   background-color: #9AE2D7;
 }
 .jumbotron-fluid h1 {
-  color: #595950;
+  color: #3F3E32;
 }
 .jumbotron-fluid h2 {
-  color: #595950;
+  color: #3F3E32;
 }
 
 .bd-placeholder-img {
