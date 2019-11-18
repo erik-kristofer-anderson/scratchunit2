@@ -10,6 +10,18 @@
   height: auto;
 }
 
+.row .col-sm {
+  color: #595950;
+}
+
+.my-index-class {
+  color: black;
+}
+
+.container {
+  background: #D6D5E5;
+}
+
 .site-footer {
   background: #9AE2D7;
   text-align: center;
@@ -19,10 +31,10 @@
   background-color: #9AE2D7;
 }
 .jumbotron-fluid h1 {
-  color: #3F3E32;
+  color: #595950;
 }
 .jumbotron-fluid h2 {
-  color: #3F3E32;
+  color: #595950;
 }
 
 .bd-placeholder-img {

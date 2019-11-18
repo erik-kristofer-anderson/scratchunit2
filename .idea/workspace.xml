@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="81342610-47f7-475d-894a-ecfb7662e3b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass-or-scss/_site_color_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass-or-scss/my_own_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass-or-scss/my_own_style.scss" afterDir="false" />
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574005244584</updated>
       <workItem from="1574005245846" duration="3622000" />
-      <workItem from="1574028641337" duration="11025000" />
+      <workItem from="1574028641337" duration="12203000" />
     </task>
     <task id="LOCAL-00001" summary="centered text in footer">
       <created>1574008866706</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574043985200</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="making progress with scss styling">
+      <created>1574044790013</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574044790013</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +184,7 @@
     <MESSAGE value="added heros here and there" />
     <MESSAGE value="starting to work on art page" />
     <MESSAGE value="starting to play with scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting to play with scss" />
+    <MESSAGE value="making progress with scss styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="making progress with scss styling" />
   </component>
 </project>

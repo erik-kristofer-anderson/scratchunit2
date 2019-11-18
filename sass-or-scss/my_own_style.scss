@@ -1,19 +1,36 @@
 
 $black-olive: #3F3E32;
+$wenge: #616157;
+$ebony: #595950;
 $nickel-color: #72705B;
 $pale-robin-egg-blue: #9AE2D7;
+$light-gray: #CCDDD3;
+$languid-lavender: #D6D5E5;
+
 
 $footer-background :$pale-robin-egg-blue;
 $hero-background :$pale-robin-egg-blue;
-$hero-text-color: $black-olive;
-
-
-
-
+$hero-text-color: $ebony;
+$container-background-color: $languid-lavender;
+$row-text-color: $ebony;
 @use "_image_styles.scss";
-//@use "_site_color_variables";
 
 
+
+.row {
+  .col-sm{
+    color:$row-text-color;
+  }
+}
+
+
+.my-index-class{
+  color: black;
+}
+
+.container {
+  background: $container-background-color;
+}
 
 .site-footer {
   background: $footer-background;
