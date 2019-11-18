@@ -1,21 +1,20 @@
+
+
+
+
+
+
+
+@use "_image_styles.scss";
+@use "_site_color_variables";
+
+
+
 .site-footer {
   background: lightblue;
   text-align: center;
 }
 
-
-.img-responsive {
-  display: inline;
-  max-width: 50%;
-  height: auto;
-}
-
-
-.img-responsive-col {
-  display: block;
-  max-width: 80%;
-  height: auto;
-}
 
 
 
